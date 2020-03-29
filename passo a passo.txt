@@ -1,0 +1,9 @@
+artigo https://medium.com/@mosheezderman/how-to-set-up-ci-cd-pipeline-for-a-node-js-app-with-jenkins-c51581cc783c
+
+-criar diretorio base
+-executar git bash here
+-criar repositorio no github (ativar .gitignore: node)
+-copiar url do repo
+-git clone url acima e cd para o dir criado
+-editar e salvar o package.json do artigo
+-executar npm install
